@@ -1,0 +1,51 @@
+.wrapper .main-content {
+  width: 100%;
+  margin-left: 250px;
+}
+
+.wrapper .main-content .header {
+  padding: 20px;
+  background-color: royalblue;
+  color: white;
+  text-align: center;
+  border-bottom: 10px solid yellow;
+}
+
+.wrapper .main-content .info {
+  margin: 20px;
+  text-align: center;
+}
+
+.branch-info {
+  display: table;
+  width: auto;
+  border: 5px;
+  margin-left:180px;
+  margin-top:50px;
+}
+
+.row {
+  width: auto;
+  display: row;
+}
+
+.cell-label {
+  text-align: center;
+  width: 400px;
+  height: 30px;
+  display: table-column;
+  background-color: lightgrey;
+  border: 1px solid black;
+  font-weight: bold;
+}
+
+.cell-info{
+  text-align: left;
+  width: 400px;
+  height: 30px;
+  display: table-column;
+  border: 1px solid black;
+  font-weight: bold;
+}
+
+
